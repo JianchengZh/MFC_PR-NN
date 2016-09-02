@@ -1,2 +1,2 @@
 # MFC_PR-NN
-Digital image processing
+Pattern Recognation and Neural Network
